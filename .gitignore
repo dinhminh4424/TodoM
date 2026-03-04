@@ -1,0 +1,12 @@
+# Các thư mục thư viện
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# File môi trường (chứa mật khẩu, key)
+.env
+.env.local
+
+# Các thư mục build
+dist/
+build/
